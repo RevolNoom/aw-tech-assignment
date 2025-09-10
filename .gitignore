@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# RevolNoom's custom ignores
+node_modules
+awingtest.client/node_modules
